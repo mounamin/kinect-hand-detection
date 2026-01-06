@@ -3,8 +3,10 @@
 ## Overview
 This project presents a prototype system for hand detection using Microsoft Kinect v1.
 The system identifies hands in real-time and visualizes them with colored circles:
-•	Blue circle for the left hand
-•	Red circle for the right hand
+
+ •	Blue circle for the left hand
+ •	Red circle for the right hand
+
 The goal is to provide a foundation for natural human–computer interaction and future gesture recognition.
 ## Screenshots
 
