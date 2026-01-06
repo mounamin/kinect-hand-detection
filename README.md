@@ -6,7 +6,13 @@ The system identifies hands in real-time and visualizes them with colored circle
 •	Blue circle for the left hand
 •	Red circle for the right hand
 The goal is to provide a foundation for natural human–computer interaction and future gesture recognition.
+## Screenshots
 
+![Position 1](assets/hand1.png)
+![Position 2](assets/hand2.png)
+![Position 3](assets/hand3.png)
+
+*Blue = left hand, Red = right hand*
 ## Technologies
 - C#
 - Microsoft Kinect SDK v1
