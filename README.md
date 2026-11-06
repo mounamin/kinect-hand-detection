@@ -32,4 +32,5 @@ systems for Virtual Reality and intelligent environments.
 
 ## Status
 Research prototype / proof of concept.
-© 2026 Mouna Chaima Agha. All rights reserved. Contact: linkedin.com/in/mouna-chaima-agha
+© 2026 Mouna Chaima Agha. All rights reserved. 
+Contact: linkedin.com/in/mouna-chaima-agha
