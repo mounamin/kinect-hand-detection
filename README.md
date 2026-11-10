@@ -20,6 +20,7 @@ The goal is to provide a foundation for natural human–computer interaction and
 - C#
 - Microsoft Kinect SDK v1
 - Computer Vision
+- Coding4Fun Kinect Toolkit (for visual overlays)
 
 ## Features
 •	Real-time hand detection
